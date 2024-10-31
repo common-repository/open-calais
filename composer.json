@@ -1,0 +1,11 @@
+{
+    "name"       : "open-calais",
+    "description": "Send your post content to Thomson Reuters' Open Calais Intelligent Tagging API to get suggested tags you can use in the CMS.",
+    "homepage"   : "https://wordpress.org/plugins/open-calais/",
+    "type"       : "wordpress-plugin",
+    "license"    : "GPL-2.0+",
+    "version"    : "1.2.5",
+    "support"    : {
+        "forum": "https://wordpress.org/support/plugin/open-calais"
+    }
+}
